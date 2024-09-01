@@ -1,11 +1,21 @@
 # Yonsei_ESC
-Personal Repository for Yonsei Expanded Statistics Club (ESC) July. 2022 - Dec.2023 activities.
+Personal Repository for Yonsei Expanded Statistics Club (ESC) July. 2022 - Dec.2023 activities.  
+***Advisor***: Prof. Jaewoo Park
+
+</br>
 
 ## Contents
 * [Club Sessions](#-club-sessions)
+    * [Bayesian Statistics](#1-bayesian-statistics-july-2022---dec-2022)
+    * [Convex Optimization](#2-convex-optimization-jan-2023---june-2023)
 * [Team Projects](#️-team-projects)
+    * [2022 BigContest](#1-2022-bigcontest-aug-2022---oct-2022)
+    * [2022 FinalContest](#2-2022-finalcontest-oct-2022---nov-2022)
+    * [2023 FinalContest](#3-2023-finalcontest-may-2023---june-2023)
 * [Teaching Assistants](#️-teaching-assistants)
-* [Group Study](#-group-study)
+    * [Data Structure & Algorithm](#1-data-structure--algorithm-jan-2023---feb-2023)
+    * [Deep Learning & Machine Learning](#2-deep-learning--machine-learning-study-july2023---nov2023)
+* [Group Study: Linear Algebra](#-group-study)
 * [Official Repository](#️-official-repository)
 
 </br>
@@ -55,12 +65,14 @@ Participate in *1 domestic competition* and *2 club competitions*.
 - **Organized by:** Ministry of Science and ICT, National IT Industry Promotion Agency
 - **Reference:** [BigContest Website](https://www.bigcontest.or.kr/introduce/history2022.php)
 
+
 ### 2. 2022 FinalContest (Oct. 2022 - Nov. 2022)
 #### Regression or Classification Problem (Logistic Regression / GLM)
 - **Theme:** The aim of this project was to develop a predictive model for drug consumption from a Bayesian perspective, using demographic and personality indicators to estimate the likelihood of drug addiction either as a regression problem by scoring the degree of addiction, or as a classification problem by categorizing into seven levels or dichotomizing the data into non-users and users.
 - **Dataset:** [Drug Consumption, UCI, 2016](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29)
 - **Team:** Team 4
 - **Organized by:** Yonsei ESC
+
 
 ### 3. 2023 FinalContest (May. 2023 - June. 2023)
 #### Optimize Energy Consumption in Industry
@@ -69,7 +81,6 @@ Participate in *1 domestic competition* and *2 club competitions*.
 - **Team:** Team 5
 - **Organized by:** Yonsei ESC
 
-</br>
 </br>
 
 ## 🏃‍♀️ Teaching Assistants
